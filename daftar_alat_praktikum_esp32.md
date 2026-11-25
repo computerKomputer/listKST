@@ -24,9 +24,15 @@ Daftar komponen, estimasi harga, dan link pembelian untuk praktikum sistem terta
 |:------:|:---------------------------------------------------------------------------------------------------------------- |
 | ✔      | Harga sudah dicek langsung pada listing Tokopedia dan shopee                                                     |
 | ~      | Harga **perkiraan** umum pasar, belum dicek. Cek lagi lewat link sebelum membeli                                 |
+|cek     |tes                                |
 | Link   | Berupa **link pencarian** (bukan produk tertentu), jadi tetap berlaku. Bandingkan rating toko dan ulasan sendiri |
 
 Ongkir tidak termasuk dalam harga. Untuk pengiriman jauh, ongkir bisa signifikan, jadi sebaiknya belanja dari satu toko.
+tes 
+tess
+
+
+
 
 ---
 
@@ -45,6 +51,7 @@ Rentang harga dari listing Tokopedia yang sudah dicek:
 | L298N (versi mini)                 | Rp7.000              | -                |
 | Servo SG90                         | Rp18.000 - Rp26.500  | Rp20.000         |
 | RFID RC522 + tag                   | Rp12.500 - Rp29.000  | Rp20.000         |
+
 | Stepper 28BYJ-48 + ULN2003 (paket) | Rp17.250             | Rp17.250         |
 
 > **Catatan:** Abaikan listing dengan harga tidak wajar (misalnya jutaan rupiah untuk satu modul). Biasanya itu produk impor pre-order atau paket banyak pcs.
